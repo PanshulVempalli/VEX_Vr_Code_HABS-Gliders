@@ -43,11 +43,7 @@ def convert_color_to_string(col):
    return ""
 
 #endregion
-# ---------------------------------------------------
-#  VEXcode VR Python Project
-#  Author: 45519X RefleX
-#  Push Back VR Skills High School Challenge
-# ---------------------------------------------------
+
 
 
 # ---------------- MOTOR SETUP ----------------
