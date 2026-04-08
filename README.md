@@ -6,9 +6,12 @@ We used this prject to learn how to use and code sensors in VEX and you can use 
 Created by team members : Panshul Vempalli :https://github.com/PanshulVempalli
                           Kayan Shah       :https://github.com/KayanShah
 
+You can run this code here: https://vr.vex.com in VEX Vr , enter your team code and use the PushBack playground if you want to see the hero bot actually move , hopefully this code will be useful for you in future seasons as well 
+
 Thank you to everyone else involved and the rest of the HABS-Gliders team
 
 Special thank you to team RefleX 45519X for inspiring this project!!!
 
 
 If this project check out other VEX related stuf on mine and Kayan's accounts . Thank you for your interest 
+
