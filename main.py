@@ -43,6 +43,11 @@ def convert_color_to_string(col):
    return ""
 
 #endregion
+# ---------------------------------------------------
+#  VEXcode VR Python Project
+#  Author: 45519X RefleX
+#  Push Back VR Skills High School Challenge
+# ---------------------------------------------------
 
 
 # ---------------- MOTOR SETUP ----------------
@@ -172,6 +177,7 @@ def main():
 
    # --- Mid Collection ---
    conveyor_motor.spin(FORWARD)
+   bot.turnTo(55)
    bot.turnTo(-155)
 
    conveyor_motor.set_velocity(3, PERCENT)
@@ -179,8 +185,11 @@ def main():
    conveyor_motor.stop()
 
    bot.turnTo(-90)
+   drivetrain.drive_for(REVERSE, 125, MM)
+   score(True)
+
    # --- Bottom Left Blues ---
-   drivetrain.drive_for(FORWARD, 515, MM)
+   drivetrain.drive_for(FORWARD, 640, MM)
    pick()
 
    # --- Long Goal Score ---
