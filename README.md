@@ -1,15 +1,34 @@
-# VEX_Vr_Code_HABS-Gliders
-This is the official VEX Vr code of VEX V5 middle school team HABS Gliders 34071B coded in the Pushback (2025-2026) season. This code got a high score of 95 putting us first in our region ( The  UK) in both middle and high school and overall 11th in the worlds for middle school.
+![VEX Robotics](https://img.shields.io/badge/VEX-Robotics-red)
+![Season](https://img.shields.io/badge/Season-Pushback%202025%2F26-orange)
+![Team](https://img.shields.io/badge/Team-34071B-blue)
+![Name](https://img.shields.io/badge/Name-HABS%20Gliders-red)
+![Contributors](https://img.shields.io/badge/Contributors-Kayan%20Shah%20%26%20Panshul%20Vempalli%202025%2F26-orange)
 
-We used this prject to learn how to use and code sensors in VEX and you can use it to do the same .
+# VEX VR Code — HABS Gliders 34071B
 
-Created by team members : Panshul Vempalli :https://github.com/PanshulVempalli
-                          Kayan Shah       :https://github.com/KayanShah
+Official VEX VR code for **HABS Gliders 34071B**, written during the **Pushback (2025/26)** season.
 
-You can run this code here: https://vr.vex.com in VEX Vr , enter your team code and use the PushBack playground if you want to see the hero bot actually move , hopefully this code will be useful for you in future seasons as well 
+This code achieved a high score of **95**, placing us **1st in the UK** (across both middle and high school) and **11th in the world** for middle school — we used it to learn sensor programming in VEX, and hopefully you can too.
 
-Thank you to everyone else involved and the rest of the HABS-Gliders team
+---
 
+## Running the Code
 
-If this project check out other VEX related stuf on mine and Kayan's accounts . Thank you for your interest 
+Head to [vr.vex.com](https://vr.vex.com), enter your team code, and select the **Pushback** playground to see the hero bot in action.
 
+---
+
+## Authors
+
+| | |
+|---|---|
+| **Kayan Shah** | [github.com/KayanShah](https://github.com/KayanShah) |
+| **Panshul Vempalli** | [github.com/PanshulVempalli](https://github.com/PanshulVempalli) |
+
+---
+
+## Notes
+
+- This project was built to explore sensor coding in VEX — feel free to use it as a reference for future seasons
+- Check out our other VEX-related projects on both of our GitHub profiles
+- Thanks to everyone else involved and the rest of the HABS Gliders team
